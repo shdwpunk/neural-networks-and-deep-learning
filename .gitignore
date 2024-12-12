@@ -6,3 +6,9 @@
 .DS_Store
 loc.py
 src/ec2
+bin/
+lib/
+lib64
+pyvenv.cfg
+theano_patched/
+!theano_patched/Theano-1.0.5/versioneer.py
